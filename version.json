@@ -1,10 +1,5 @@
 {
-    "changelog":  "更新内容：\n- 新增自动更新功能\n- 新增版本检查功能\n- 优化界面显示",
-    "downloadLink":  "https://github.com/Worldbox-OWL/other/releases/download/OWL/OrdinaryWorldboxLauncher.exe",
-    "ver":  "1.2.3"
-
+  "changelog": "更新内容：\n- 优化卸载前置按钮\n- 修复一些问题",
+  "downloadLink": "https://github.com/Worldbox-OWL/other/releases/download/OWL/OrdinaryWorldboxLauncher.exe",
+  "ver": "1.2.4"
 }
-
-
-
-
