@@ -1,5 +1,5 @@
 {
-  "changelog": "更新内容：\n- 优化卸载前置按钮\n- 修复一些问题",
+  "changelog": "更新内容：\n- 优化自动更新",
   "downloadLink": "https://github.com/Worldbox-OWL/other/releases/download/OWL/OrdinaryWorldboxLauncher.exe",
-  "ver": "1.2.4"
+  "ver": "1.2.5"
 }
