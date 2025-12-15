@@ -1,5 +1,5 @@
 {
-  "changelog": "增加赞助节点",
+  "changelog": "修复加速链接拼接错误问题\n增加动效",
   "downloadLink": "https://github.com/Worldbox-OWL/other/releases/download/OWL/OrdinaryWorldboxLauncher.exe",
-  "ver": "1.3.2"
+  "ver": "1.3.3"
 }
