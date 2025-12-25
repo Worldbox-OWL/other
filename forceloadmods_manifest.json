@@ -1,6 +1,14 @@
 {
-    "changelog": "鍒濆鐗堟湰",
-    "sha256": "ba3b1ba72fb0622abe89435dcd9e46d19a4fc6de7aff01280f97fe4f61382f45",
-    "version": "1.0.0",
-    "downloadUrl": "https://github.com/Worldbox-OWL/other/releases/download/ForceLoadMods/bepinex_ForceLoadMods.zip"
+  "Version": "2.0.0",
+  "Sha256": "113099164f3c1e6dedcfc6ac38a6fc21da7ffa16e75d59e4aad5e20159e09a9e",
+  "DownloadUrl": "https://github.com/Worldbox-OWL/other/releases/download/ForceLoadMods/bepinex_ForceLoadMods.zip",
+  "Changelog": "- 修复一些问题",
+  "releaseDate": "2025-12-26",
+  "History": [
+    {
+      "Version": "2.0.0",
+      "releaseDate": "2025-12-26",
+      "Changelog": "- 修复一些问题"
+    }
+  ]
 }
