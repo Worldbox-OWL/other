@@ -1,9 +1,20 @@
 {
-  "ver": "1.4.0",
+  "ver": "1.4.1",
+  "releaseDate": "2025-12-30",
   "downloadLink": "https://github.com/Worldbox-OWL/other/releases/download/OWL/OrdinaryWorldboxLauncher.exe",
-  "changelog": "更新内容：\n- 添加游戏进程监控功能：显示运行状态和时间，支持终止游戏\n- 添加路径兼容模式：通过虚拟驱动器解决中文路径问题\n- 设置页面改为Tab切换布局（界面/网络/游戏/高级）\n- 新手引导增加第三步：路径兼容设置\n- 新手引导显示时主窗口添加暗色遮罩\n- 优化版本历史对话框为时间线样式\n- 首页添加版本号点击提示\n并增加一个小彩蛋哦~",
-  "updateAnnouncement": "强烈建议更新",
+  "changelog": "1. 下载队列管理系统\n  - 统一管理游戏版本、Mod、地图的下载任务\n  - 支持下载进度显示和取消\n\n  2. 卡密验证系统\n  - 新增授权验证功能\n  - 添加免责声明对话框\n\n  3. ForceLoadMods 插件版本检查\n  - 启动游戏时自动检测插件是否有新版本\n  - 提示用户是否下载更新\n\n  4. 目录结构统一初始化\n  - 新增 DirectoryInitializer.cs\n  - 程序启动时自动创建 logs、config、gameversion 目录",
+  "updateAnnouncement": "建议更新",
   "history": [
+    {
+      "ver": "1.4.1",
+      "releaseDate": "2025-12-30",
+      "changelog": "1. 下载队列管理系统\n  - 统一管理游戏版本、Mod、地图的下载任务\n  - 支持下载进度显示和取消\n\n  2. 卡密验证系统\n  - 新增授权验证功能\n  - 添加免责声明对话框\n\n  3. ForceLoadMods 插件版本检查\n  - 启动游戏时自动检测插件是否有新版本\n  - 提示用户是否下载更新\n\n  4. 目录结构统一初始化\n  - 新增 DirectoryInitializer.cs\n  - 程序启动时自动创建 logs、config、gameversion 目录"
+    },
+    {
+      "ver": "1.4.0",
+      "releaseDate": "2025-12-30",
+      "changelog": "更新内容：\n- 添加游戏进程监控功能：显示运行状态和时间，支持终止游戏\n- 添加路径兼容模式：通过虚拟驱动器解决中文路径问题\n- 设置页面改为Tab切换布局（界面/网络/游戏/高级）\n- 新手引导增加第三步：路径兼容设置\n- 新手引导显示时主窗口添加暗色遮罩\n- 优化版本历史对话框为时间线样式\n- 首页添加版本号点击提示\n并增加一个小彩蛋哦~"
+    },
     {
       "ver": "1.3.6",
       "releaseDate": "2025-12-18",
