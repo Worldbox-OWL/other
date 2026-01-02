@@ -1,10 +1,20 @@
 {
-  "ver": "1.4.1",
-  "releaseDate": "2025-12-30",
+  "ver": "1.4.2",
+  "releaseDate": "2026-01-02",
   "downloadLink": "https://github.com/Worldbox-OWL/other/releases/download/OWL/OrdinaryWorldboxLauncher.exe",
-  "changelog": "1. 下载队列管理系统\n  - 统一管理游戏版本、Mod、地图的下载任务\n  - 支持下载进度显示和取消\n\n  2. 卡密验证系统\n  - 新增授权验证功能\n  - 添加免责声明对话框\n\n  3. ForceLoadMods 插件版本检查\n  - 启动游戏时自动检测插件是否有新版本\n  - 提示用户是否下载更新\n\n  4. 目录结构统一初始化\n  - 新增 DirectoryInitializer.cs\n  - 程序启动时自动创建 logs、config、gameversion 目录",
-  "updateAnnouncement": "建议更新",
+  "changelog": "新功能：\n\n程序启动目录初始化 - 新增 DirectoryInitializer，程序启动时自动创建 logs、config、gameversion 等必要目录\nForceLoadMods 插件更新检查 - 在插件模式下新增\"检查更新\"按钮，支持检测并下载最新版本插件\nNML 缓存清理 - Mod 管理页面新增\"清理缓存\"按钮，可清理 NML 缓存文件夹解决 Mod 无法启用的问题\n下载列表排序功能 - 地图/Mod 下载对话框新增排序选项（默认、按名称、按时间、随机）",
+  "updateAnnouncement": "建议更新,改动较大",
   "history": [
+    {
+      "ver": "1.4.2",
+      "releaseDate": "2026-01-02",
+      "changelog": "新功能：\n\n程序启动目录初始化 - 新增 DirectoryInitializer，程序启动时自动创建 logs、config、gameversion 等必要目录\nForceLoadMods 插件更新检查 - 在插件模式下新增\"检查更新\"按钮，支持检测并下载最新版本插件\nNML 缓存清理 - Mod 管理页面新增\"清理缓存\"按钮，可清理 NML 缓存文件夹解决 Mod 无法启用的问题\n下载列表排序功能 - 地图/Mod 下载对话框新增排序选项（默认、按名称、按时间、随机）"
+    },
+    {
+      "ver": "1.4.1",
+      "releaseDate": "2025-12-30",
+      "changelog": "1. 下载队列管理系统\n  - 统一管理游戏版本、Mod、地图的下载任务\n  - 支持下载进度显示和取消\n\n  2. 卡密验证系统\n  - 新增授权验证功能\n  - 添加免责声明对话框\n\n  3. ForceLoadMods 插件版本检查\n  - 启动游戏时自动检测插件是否有新版本\n  - 提示用户是否下载更新\n\n  4. 目录结构统一初始化\n  - 新增 DirectoryInitializer.cs\n  - 程序启动时自动创建 logs、config、gameversion 目录"
+    },
     {
       "ver": "1.4.1",
       "releaseDate": "2025-12-30",
