@@ -1,10 +1,20 @@
 {
-  "ver": "1.4.2",
-  "releaseDate": "2026-01-02",
+  "ver": "1.4.3",
+  "releaseDate": "2026-01-17",
   "downloadLink": "https://github.com/Worldbox-OWL/other/releases/download/OWL/OrdinaryWorldboxLauncher.exe",
-  "changelog": "新功能：\n\n程序启动目录初始化 - 新增 DirectoryInitializer，程序启动时自动创建 logs、config、gameversion 等必要目录\nForceLoadMods 插件更新检查 - 在插件模式下新增\"检查更新\"按钮，支持检测并下载最新版本插件\nNML 缓存清理 - Mod 管理页面新增\"清理缓存\"按钮，可清理 NML 缓存文件夹解决 Mod 无法启用的问题\n下载列表排序功能 - 地图/Mod 下载对话框新增排序选项（默认、按名称、按时间、随机）",
-  "updateAnnouncement": "建议更新,改动较大",
+  "changelog": "更新内容：\n- 修复启动崩溃、优化动画、支持zip导入游戏版本、默认mod图标",
+  "updateAnnouncement": "可以选择性更新",
   "history": [
+    {
+      "ver": "1.4.3",
+      "releaseDate": "2026-01-17",
+      "changelog": "更新内容：\n- 修复启动崩溃、优化动画、支持zip导入游戏版本、默认mod图标"
+    },
+    {
+      "ver": "1.4.2",
+      "releaseDate": "2026-01-02",
+      "changelog": "新功能：\n\n程序启动目录初始化 - 新增 DirectoryInitializer，程序启动时自动创建 logs、config、gameversion 等必要目录\nForceLoadMods 插件更新检查 - 在插件模式下新增\"检查更新\"按钮，支持检测并下载最新版本插件\nNML 缓存清理 - Mod 管理页面新增\"清理缓存\"按钮，可清理 NML 缓存文件夹解决 Mod 无法启用的问题\n下载列表排序功能 - 地图/Mod 下载对话框新增排序选项（默认、按名称、按时间、随机）"
+    },
     {
       "ver": "1.4.2",
       "releaseDate": "2026-01-02",
