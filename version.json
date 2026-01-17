@@ -1,10 +1,19 @@
 {
-  "ver": "1.4.3",
+  "ver": "1.4.4",
   "releaseDate": "2026-01-17",
   "downloadLink": "https://github.com/Worldbox-OWL/other/releases/download/OWL/OrdinaryWorldboxLauncher.exe",
-  "changelog": "更新内容：\n- 修复启动崩溃、优化动画、支持zip导入游戏版本、默认mod图标",
-  "updateAnnouncement": "可以选择性更新",
+  "changelog": "更新内容：\n功能优化\n移除卡密验证机制，点击10次直接解锁下载功能\n下载失败自动重试3次\n下载速度实时显示\n支持断点续传\n游戏资源下载改为8文件并发",
   "history": [
+    {
+      "ver": "1.4.4",
+      "releaseDate": "2026-01-17",
+      "changelog": "更新内容：\n功能优化\n移除卡密验证机制，点击10次直接解锁下载功能\n下载失败自动重试3次\n下载速度实时显示\n支持断点续传\n游戏资源下载改为8文件并发"
+    },
+    {
+      "ver": "1.4.3",
+      "releaseDate": "2026-01-17",
+      "changelog": "更新内容：\n- 修复启动崩溃、优化动画、支持zip导入游戏版本、默认mod图标"
+    },
     {
       "ver": "1.4.3",
       "releaseDate": "2026-01-17",
