@@ -1,9 +1,20 @@
 {
-  "ver": "1.4.4",
-  "releaseDate": "2026-01-17",
+  "ver": "1.4.5",
+  "releaseDate": "2026-01-26",
   "downloadLink": "https://github.com/Worldbox-OWL/other/releases/download/OWL/OrdinaryWorldboxLauncher.exe",
-  "changelog": "优化页面切换动画\n添加默认mod图标\n搜索框防抖优化",
+  "changelog": "更新内容：\n- 修复一些可能出现的重大bug",
+  "updateAnnouncement": "修复一些可能出现的重大bug",
   "history": [
+    {
+      "ver": "1.4.5",
+      "releaseDate": "2026-01-26",
+      "changelog": "更新内容：\n- 修复一些可能出现的重大bug"
+    },
+    {
+      "ver": "1.4.4",
+      "releaseDate": "2026-01-17",
+      "changelog": "优化页面切换动画\n添加默认mod图标\n搜索框防抖优化"
+    },
     {
       "ver": "1.4.4",
       "releaseDate": "2026-01-17",
