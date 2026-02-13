@@ -1,10 +1,20 @@
 {
-  "ver": "1.4.5",
-  "releaseDate": "2026-01-26",
+  "ver": "1.5.0",
+  "releaseDate": "2026-02-14",
   "downloadLink": "https://github.com/Worldbox-OWL/other/releases/download/OWL/OrdinaryWorldboxLauncher.exe",
-  "changelog": "更新内容：\n- 修复一些可能出现的重大bug",
-  "updateAnnouncement": "修复一些可能出现的重大bug",
+  "changelog": "更新内容：\n支持 Steam 多库目录查找游戏路径\n下载地图/Mod 对话框显示资源总数\n\n批量导入支持\n-Mod 导入支持 zip 内包含多个 mod（mod 集），逐个安装并汇总提示\n-地图导入支持 zip 内包含多个地图，逐个选择存档位，可跳过所有后续",
+  "updateAnnouncement": "建议更新",
   "history": [
+    {
+      "ver": "1.5.0",
+      "releaseDate": "2026-02-14",
+      "changelog": "更新内容：\n支持 Steam 多库目录查找游戏路径\n下载地图/Mod 对话框显示资源总数\n\n批量导入支持\n-Mod 导入支持 zip 内包含多个 mod（mod 集），逐个安装并汇总提示\n-地图导入支持 zip 内包含多个地图，逐个选择存档位，可跳过所有后续"
+    },
+    {
+      "ver": "1.4.5",
+      "releaseDate": "2026-01-26",
+      "changelog": "更新内容：\n- 修复一些可能出现的重大bug"
+    },
     {
       "ver": "1.4.5",
       "releaseDate": "2026-01-26",
