@@ -1,10 +1,20 @@
 {
-  "Version": "2.0.0",
+  "Version": "2.1.0",
   "Sha256": "113099164f3c1e6dedcfc6ac38a6fc21da7ffa16e75d59e4aad5e20159e09a9e",
   "DownloadUrl": "https://github.com/Worldbox-OWL/other/releases/download/ForceLoadMods/bepinex_ForceLoadMods.zip",
-  "Changelog": "- 修复一些问题",
-  "releaseDate": "2025-12-26",
+  "Changelog": "- bepinex固定版本,应该修复了强制实验模式?",
+  "releaseDate": "2026-02-22",
   "History": [
+    {
+      "Version": "2.1.0",
+      "releaseDate": "2026-02-22",
+      "Changelog": "- bepinex固定版本,应该修复了强制实验模式?"
+    },
+    {
+      "Version": "2.0.0",
+      "releaseDate": "2025-12-26",
+      "Changelog": "- 修复一些问题"
+    },
     {
       "Version": "2.0.0",
       "releaseDate": "2025-12-26",
