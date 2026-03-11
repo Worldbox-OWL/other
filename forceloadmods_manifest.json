@@ -11,6 +11,16 @@
       "Changelog": "-"
     },
     {
+      "Version": "4.1.0",
+      "releaseDate": "2026-03-11",
+      "Changelog": "-"
+    },
+    {
+      "Version": "4.1.0",
+      "releaseDate": "2026-03-11",
+      "Changelog": "-"
+    },
+    {
       "Version": "4.0.0",
       "releaseDate": "2026-03-10",
       "Changelog": "- 修复了部分版本加了插件无法进入游戏的问题"
@@ -79,11 +89,6 @@
       "Version": "2.1.0",
       "releaseDate": "2026-02-22",
       "Changelog": "- bepinex固定版本,应该修复了强制实验模式?"
-    },
-    {
-      "Version": "2.0.0",
-      "releaseDate": "2025-12-26",
-      "Changelog": "- 修复一些问题"
     },
     {
       "Version": "2.0.0",
