@@ -1,10 +1,19 @@
 {
-  "ver": "1.8.0",
-  "releaseDate": "2026-05-25",
+  "ver": "1.9.0",
+  "releaseDate": "2026-06-03",
   "downloadLink": "https://github.com/Worldbox-OWL/other/releases/download/OWL/OrdinaryWorldboxLauncher.exe",
-  "changelog": "更新内容：\n- 新增了一个超级无敌雷霆的加速方案,目前测试很好用\n- 现在三条网络链路可以自己选择了",
-  "updateAnnouncement": "雷霆大更新!",
+  "changelog": "更新内容：\n- 新增一台服务器(国内),让下载速度pwoer!!!\n- 增加整合包索引文件,可以快速分享你所玩的mod\n感谢支持!",
   "history": [
+    {
+      "ver": "1.9.0",
+      "releaseDate": "2026-06-03",
+      "changelog": "更新内容：\n- 新增一台服务器(国内),让下载速度pwoer!!!\n- 增加整合包索引文件,可以快速分享你所玩的mod\n感谢支持!"
+    },
+    {
+      "ver": "1.8.0",
+      "releaseDate": "2026-05-25",
+      "changelog": "更新内容：\n- 新增了一个超级无敌雷霆的加速方案,目前测试很好用\n- 现在三条网络链路可以自己选择了"
+    },
     {
       "ver": "1.8.0",
       "releaseDate": "2026-05-25",
@@ -94,16 +103,6 @@
       "ver": "1.5.0",
       "releaseDate": "2026-02-14",
       "changelog": "更新内容：\n支持 Steam 多库目录查找游戏路径\n下载地图/Mod 对话框显示资源总数\n\n批量导入支持\n-Mod 导入支持 zip 内包含多个 mod（mod 集），逐个安装并汇总提示\n-地图导入支持 zip 内包含多个地图，逐个选择存档位，可跳过所有后续"
-    },
-    {
-      "ver": "1.5.0",
-      "releaseDate": "2026-02-14",
-      "changelog": "更新内容：\n支持 Steam 多库目录查找游戏路径\n下载地图/Mod 对话框显示资源总数\n\n批量导入支持\n-Mod 导入支持 zip 内包含多个 mod（mod 集），逐个安装并汇总提示\n-地图导入支持 zip 内包含多个地图，逐个选择存档位，可跳过所有后续"
-    },
-    {
-      "ver": "1.4.5",
-      "releaseDate": "2026-01-26",
-      "changelog": "更新内容：\n- 修复一些可能出现的重大bug"
     }
   ]
 }
