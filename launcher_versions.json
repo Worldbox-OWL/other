@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "latest": "2.0.0",
+  "releaseTag": "OWL-Tauri",
+  "updatedAt": "2026-08-17T13:42:48+00:00",
+  "versions": [
+    {
+      "version": "2.0.0",
+      "channel": "stable",
+      "releaseDate": "2026-08-17",
+      "assetName": "OWL_worldboxGameLuncher-2.0.0-windows-x64.zip",
+      "downloadUrl": "https://github.com/Worldbox-OWL/other/releases/download/OWL-Tauri/OWL_worldboxGameLuncher-2.0.0-windows-x64.zip",
+      "sha256": "f7f3abc0c47e347116dcd3d98f34dd3833b35f4a6aada8ee12a319cd46bcb504",
+      "size": 2944457,
+      "changelog": "OWL Tauri 2.0.0 首个多版本发布。\\n- 建立独立的 Tauri Release 发布通道\\n- 提供包含原生组件的便携 ZIP 发布包\\n- 为后续版本下载、校验和回退保留完整版本记录"
+    }
+  ]
+}
