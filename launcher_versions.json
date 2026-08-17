@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "latest": "2.0.0",
   "releaseTag": "OWL-Tauri",
-  "updatedAt": "2026-08-17T15:58:05+00:00",
+  "updatedAt": "2026-08-17T21:09:50+00:00",
   "versions": [
     {
       "version": "2.0.0",
@@ -10,9 +10,9 @@
       "releaseDate": "2026-08-17",
       "assetName": "OWL_worldboxGameLuncher-2.0.0-windows-x64.zip",
       "downloadUrl": "https://github.com/Worldbox-OWL/other/releases/download/OWL-Tauri/OWL_worldboxGameLuncher-2.0.0-windows-x64.zip",
-      "sha256": "da79fd647fa8c28843299d0e9302512e3c3a4ecef44b0d4cfe4954561023c743",
-      "size": 2925352,
-      "changelog": "OWL Tauri 2.0.0 首个多版本发布。\n\n- 建立独立的 Tauri Release 发布通道\n- 提供包含原生组件的便携 ZIP 发布包\n- 为后续版本下载、校验和回退保留完整版本记录\n- 恢复旧版 OWL 的独立应用图标"
+      "sha256": "b0018b2415b385e54e2fb875a6200dbb24725aee2807c0f94867c76c9c243dca",
+      "size": 2951841,
+      "changelog": "完善启动器热更新、历史版本与回溯流程；增加独立版本历史页面、发布通道筛选和交互反馈；优化启动器图标及更新残留清理。"
     }
   ]
 }
