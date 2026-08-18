@@ -1,9 +1,19 @@
 {
   "schemaVersion": 1,
-  "latest": "2.0.1",
+  "latest": "2.0.2-windows-x64.zip",
   "releaseTag": "OWL-Tauri",
-  "updatedAt": "2026-08-18T12:49:55+00:00",
+  "updatedAt": "2026-08-18T18:48:07+00:00",
   "versions": [
+    {
+      "version": "2.0.2-windows-x64.zip",
+      "channel": "stable",
+      "releaseDate": "2026-08-18",
+      "assetName": "OWL_worldboxGameLuncher-2.0.2-windows-x64.zip-windows-x64.zip",
+      "downloadUrl": "https://github.com/Worldbox-OWL/other/releases/download/OWL-Tauri/OWL_worldboxGameLuncher-2.0.2-windows-x64.zip-windows-x64.zip",
+      "sha256": "aee9045dd703d258ddac7529d6dff7878f3ac45074d9dd7bb777c9ddc19eecde",
+      "size": 2893695,
+      "changelog": "更新内容：\n- 修复了路径兼容+版本隔离会报错的问题"
+    },
     {
       "version": "2.0.1",
       "channel": "stable",
