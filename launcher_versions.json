@@ -1,9 +1,19 @@
 {
   "schemaVersion": 1,
-  "latest": "2.0.2-windows-x64.zip",
+  "latest": "2.0.3",
   "releaseTag": "OWL-Tauri",
-  "updatedAt": "2026-08-18T18:48:07+00:00",
+  "updatedAt": "2026-08-20T12:39:28+00:00",
   "versions": [
+    {
+      "version": "2.0.3",
+      "channel": "stable",
+      "releaseDate": "2026-08-20",
+      "assetName": "OWL_worldboxGameLuncher-2.0.3-windows-x64.zip",
+      "downloadUrl": "https://github.com/Worldbox-OWL/other/releases/download/OWL-Tauri/OWL_worldboxGameLuncher-2.0.3-windows-x64.zip",
+      "sha256": "0b132b07797f4691afaab00411b36ddcc9a2ed1178f299412f5ab51190843105",
+      "size": 2897450,
+      "changelog": "更新内容：\n- 修复一些bug\n- mod有变体可以重复安装(主要是为了保证附属)\n- 搜索改进,地图可以按照大小筛选\n- 地图/mod 可以通过标签筛选\n- 存档布局改进"
+    },
     {
       "version": "2.0.2-windows-x64.zip",
       "channel": "stable",
