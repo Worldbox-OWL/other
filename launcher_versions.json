@@ -1,9 +1,19 @@
 {
   "schemaVersion": 1,
-  "latest": "2.0.3",
+  "latest": "2.0.4",
   "releaseTag": "OWL-Tauri",
-  "updatedAt": "2026-08-20T12:39:28+00:00",
+  "updatedAt": "2026-08-22T18:24:15+00:00",
   "versions": [
+    {
+      "version": "2.0.4",
+      "channel": "stable",
+      "releaseDate": "2026-08-22",
+      "assetName": "OWL_worldboxGameLuncher-2.0.4-windows-x64.zip",
+      "downloadUrl": "https://github.com/Worldbox-OWL/other/releases/download/OWL-Tauri/OWL_worldboxGameLuncher-2.0.4-windows-x64.zip",
+      "sha256": "598c8d9eed66485653976bac3ac19f26c55e5a3f0339945320b72c6b067c81f0",
+      "size": 2904211,
+      "changelog": "更新内容：\n- 修复个别无EOCD的压缩包无法被启动器解压的问题\n- 修复自动更新(再次修复可能修好了)\n- 增加资源完整性校验\n- 优化一下问题,修复一些问题,增加一些目前未知的问题\n更新不易!!求各位多多支持!!1"
+    },
     {
       "version": "2.0.3",
       "channel": "stable",
