@@ -1,9 +1,19 @@
 {
   "schemaVersion": 1,
-  "latest": "2.0.4",
+  "latest": "2.0.5",
   "releaseTag": "OWL-Tauri",
-  "updatedAt": "2026-08-22T18:24:15+00:00",
+  "updatedAt": "2026-08-28T14:05:03+00:00",
   "versions": [
+    {
+      "version": "2.0.5",
+      "channel": "stable",
+      "releaseDate": "2026-08-28",
+      "assetName": "OWL_worldboxGameLuncher-2.0.5-windows-x64.zip",
+      "downloadUrl": "https://github.com/Worldbox-OWL/other/releases/download/OWL-Tauri/OWL_worldboxGameLuncher-2.0.5-windows-x64.zip",
+      "sha256": "8f1467465fb498f7df74c62e93e4fcd940051acf03370015665d1e61c276a662",
+      "size": 2906770,
+      "changelog": "更新内容：\n- 修复一些bug\n- 优化一些布局\n- 增加资源排序\n- 吃了好吃的炸鸡(真的很好吃)\n- 优化下载资源的覆盖\n- 修复了窗口的错误渲染"
+    },
     {
       "version": "2.0.4",
       "channel": "stable",
