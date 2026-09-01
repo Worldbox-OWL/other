@@ -1,9 +1,19 @@
 {
   "schemaVersion": 1,
-  "latest": "2.0.5",
+  "latest": "2.0.6",
   "releaseTag": "OWL-Tauri",
-  "updatedAt": "2026-08-28T14:05:03+00:00",
+  "updatedAt": "2026-09-01T14:32:03+00:00",
   "versions": [
+    {
+      "version": "2.0.6",
+      "channel": "stable",
+      "releaseDate": "2026-09-01",
+      "assetName": "OWL_worldboxGameLuncher-2.0.6-windows-x64.zip",
+      "downloadUrl": "https://github.com/Worldbox-OWL/other/releases/download/OWL-Tauri/OWL_worldboxGameLuncher-2.0.6-windows-x64.zip",
+      "sha256": "587220977e96ae3df30a803449a5942a6587542a857ef00e28fae8ec66d48edd",
+      "size": 2907383,
+      "changelog": "更新内容：\n- 优化了地图下载页的布局\n- 优化了瀑布流的分布\n- 优化了预览图的缩放\n- 优化了星曜的餐标(吃不上饭了QaQ)\n- 新增了框架检测,当安装mod但是未安装框架时会弹窗提醒\n- 修复了一些其他bug"
+    },
     {
       "version": "2.0.5",
       "channel": "stable",
