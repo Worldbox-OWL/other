@@ -1,9 +1,19 @@
 {
   "schemaVersion": 1,
-  "latest": "2.0.6",
+  "latest": "2.0.7",
   "releaseTag": "OWL-Tauri",
-  "updatedAt": "2026-09-01T14:32:03+00:00",
+  "updatedAt": "2026-09-07T11:13:25+00:00",
   "versions": [
+    {
+      "version": "2.0.7",
+      "channel": "stable",
+      "releaseDate": "2026-09-07",
+      "assetName": "OWL_worldboxGameLuncher-2.0.7-windows-x64.zip",
+      "downloadUrl": "https://github.com/Worldbox-OWL/other/releases/download/OWL-Tauri/OWL_worldboxGameLuncher-2.0.7-windows-x64.zip",
+      "sha256": "f4b60c1ba0214b043e75a6aa824328b09a2d2ebbb61067c5c9d026c85a2bc65b",
+      "size": 2909723,
+      "changelog": "更新内容：\n- 游戏版本下载不再覆盖\n- 移除模组管理顶部标题区域\n- 吃了家里做的回锅肉,比外面买的好吃qvq\n- 修复了些性能bug"
+    },
     {
       "version": "2.0.6",
       "channel": "stable",
