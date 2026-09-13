@@ -1,9 +1,19 @@
 {
   "schemaVersion": 1,
-  "latest": "2.0.7",
+  "latest": "2.0.8-windows-x64.zip",
   "releaseTag": "OWL-Tauri",
-  "updatedAt": "2026-09-07T11:13:25+00:00",
+  "updatedAt": "2026-09-13T18:04:28+00:00",
   "versions": [
+    {
+      "version": "2.0.8-windows-x64.zip",
+      "channel": "stable",
+      "releaseDate": "2026-09-13",
+      "assetName": "OWL_worldboxGameLuncher-2.0.8-windows-x64.zip-windows-x64.zip",
+      "downloadUrl": "https://github.com/Worldbox-OWL/other/releases/download/OWL-Tauri/OWL_worldboxGameLuncher-2.0.8-windows-x64.zip-windows-x64.zip",
+      "sha256": "7409f93ee91f591d17d06d030f7f92f7c621beffeff25c96b65abf0617b0a721",
+      "size": 2907968,
+      "changelog": "更新内容：\n优化:模组和地图页面都可以一键「前往下载」，直接打开对应资源。\n优化:一个模组有多个版本时，会直接列在卡片下面，点哪个下哪个，不用再进二级菜单。\n优化:模组可以用变体名搜索。比如变体叫「aaaa」，搜 aaaa 就能找到。\n优化:地图可以用尺寸或备注搜索。例如「19x19(冰山)」，搜 19x19 或「冰山」都能找到。\n优化:今天自己做了柠檬茶,配方:柠檬片,热水,加冰块!柠檬冰茶!\n新增:本地导入模组除了文件夹和 zip，还支持 .mod 文件（就是改了后缀的压缩包）。\n新增:在线安装前置框架时，如果当前游戏版本只有一个可用包，会直接开始下载，不用再跳去选择页。\n最后优化了很多前端布局!\n并且关闭了右键菜单!\n求求大家多多支持星曜!打赏一点喵~感谢各位喵~"
+    },
     {
       "version": "2.0.7",
       "channel": "stable",
