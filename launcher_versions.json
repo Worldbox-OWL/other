@@ -1,9 +1,19 @@
 {
   "schemaVersion": 1,
-  "latest": "2.0.8",
+  "latest": "2.1.0-preview",
   "releaseTag": "OWL-Tauri",
-  "updatedAt": "2026-09-13T18:05:22+00:00",
+  "updatedAt": "2026-09-17T13:19:14+00:00",
   "versions": [
+    {
+      "version": "2.1.0-preview",
+      "channel": "preview",
+      "releaseDate": "2026-09-17",
+      "assetName": "OWL_worldboxGameLuncher-2.1.0-preview-windows-x64.zip",
+      "downloadUrl": "https://github.com/Worldbox-OWL/other/releases/download/OWL-Tauri/OWL_worldboxGameLuncher-2.1.0-preview-windows-x64.zip",
+      "sha256": "2c48f276862d74d4ffdacab13bdf323e0cd9f69e86afe838650740b7a62ac1da",
+      "size": 2942166,
+      "changelog": "更新内容：\n- 大幅调整启动器\n- 服务器数据库调整,启动器兼容\n- 为更多功能预留接口,优化加载方式,图片加载速度飞快"
+    },
     {
       "version": "2.0.8",
       "channel": "stable",
