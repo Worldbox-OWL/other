@@ -1,9 +1,19 @@
 {
   "schemaVersion": 1,
-  "latest": "2.1.1",
+  "latest": "2.1.2",
   "releaseTag": "OWL-Tauri",
-  "updatedAt": "2026-09-28T13:21:04+00:00",
+  "updatedAt": "2026-09-30T21:21:29+00:00",
   "versions": [
+    {
+      "version": "2.1.2",
+      "channel": "stable",
+      "releaseDate": "2026-09-30",
+      "assetName": "OWL_worldboxGameLuncher-2.1.2-windows-x64.zip",
+      "downloadUrl": "https://github.com/Worldbox-OWL/other/releases/download/OWL-Tauri/OWL_worldboxGameLuncher-2.1.2-windows-x64.zip",
+      "sha256": "004e212ebbbe6da7b6d799609e46d9571205fb06669a84a04388b45859d78dd5",
+      "size": 3013385,
+      "changelog": "更新内容：\n新增 Mod 自定义分组管理。\n支持右键 Mod 创建分组。\n支持将 Mod 加入已有分组。\n支持从当前分组移除 Mod。\n支持 Material 和 Studio 两套界面。\n分组信息按实例独立保存，不修改游戏 Mod 文件。\n支持保存分组名称和 Mod 分组归属。\n新增 Mod 更新检测。\n支持一键更新已安装 Mod。\n支持识别 Mod 的真实版本和清单信息。\n新增 NSFW 内容展示开关。\n关闭后，下载中心隐藏 NSFW 标签资源。\n工坊地图导入支持点击缩略图查看可缩放大图。\n地图导入槽位选择会显示槽位是否已占用。\n槽位占用提示统一简化为“已占用”。\n优化地图导入和下载时的槽位选择体验。\n当前工作区新增版本化存档槽位规则：\n游戏版本 0.50 及以上：\n1-60 为标准槽位。\n61-200 为扩展槽位。\n游戏版本低于 0.50：\n保持 1-100 槽位。\n游戏终止改为优先请求游戏正常关闭。\n等待游戏自行退出，超时后才强制结束进程。\n优化 Windows 下的进程管理和关闭流程。\n求求各位打赏一点吧~"
+    },
     {
       "version": "2.1.1",
       "channel": "stable",
