@@ -1,9 +1,19 @@
 {
   "schemaVersion": 1,
-  "latest": "2.1.2",
+  "latest": "2.1.3",
   "releaseTag": "OWL-Tauri",
-  "updatedAt": "2026-09-30T21:21:29+00:00",
+  "updatedAt": "2026-10-03T06:03:23+00:00",
   "versions": [
+    {
+      "version": "2.1.3",
+      "channel": "stable",
+      "releaseDate": "2026-10-03",
+      "assetName": "OWL_worldboxGameLuncher-2.1.3-windows-x64.zip",
+      "downloadUrl": "https://github.com/Worldbox-OWL/other/releases/download/OWL-Tauri/OWL_worldboxGameLuncher-2.1.3-windows-x64.zip",
+      "sha256": "7e8e7ad4bc3e25007d7d8092e771522e99777db1eeb47ec83443ab276d7c276f",
+      "size": 3014934,
+      "changelog": "更新内容：\n- 修复 Mod 更新误判\n- 新增“所有 Mods”综合分类\n- 修复“所有 Mods”无法导入模组的问题\n- 新增自定义 Mod 分组重命名\n- 优化模组管理页面布局"
+    },
     {
       "version": "2.1.2",
       "channel": "stable",
