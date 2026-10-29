@@ -1,9 +1,19 @@
 {
   "schemaVersion": 1,
-  "latest": "2.1.4",
+  "latest": "2.1.5",
   "releaseTag": "OWL-Tauri",
-  "updatedAt": "2026-10-11T16:45:31+00:00",
+  "updatedAt": "2026-10-29T17:50:15+00:00",
   "versions": [
+    {
+      "version": "2.1.5",
+      "channel": "stable",
+      "releaseDate": "2026-10-29",
+      "assetName": "OWL_worldboxGameLuncher-2.1.5-windows-x64.zip",
+      "downloadUrl": "https://github.com/Worldbox-OWL/other/releases/download/OWL-Tauri/OWL_worldboxGameLuncher-2.1.5-windows-x64.zip",
+      "sha256": "e8e30d722edaf9ccb5237f82d0deed3748e1463117178c123086377fa5aa7dbd",
+      "size": 3037290,
+      "changelog": "更新内容：\n- 修复重大bug:资源识别错误,有问题\n- 修复功能板块会错误显示滚动条"
+    },
     {
       "version": "2.1.4",
       "channel": "stable",
