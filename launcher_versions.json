@@ -1,9 +1,19 @@
 {
   "schemaVersion": 1,
-  "latest": "2.2.0",
+  "latest": "2.2.1",
   "releaseTag": "OWL-Tauri",
-  "updatedAt": "2026-11-04T20:09:04+00:00",
+  "updatedAt": "2026-11-10T15:01:18+00:00",
   "versions": [
+    {
+      "version": "2.2.1",
+      "channel": "stable",
+      "releaseDate": "2026-11-10",
+      "assetName": "OWL_worldboxGameLuncher-2.2.1-windows-x64.zip",
+      "downloadUrl": "https://github.com/Worldbox-OWL/other/releases/download/OWL-Tauri/OWL_worldboxGameLuncher-2.2.1-windows-x64.zip",
+      "sha256": "6a5db58f4c2c0c5cb8f71e0a6f3966113f0cc9b98b2b3333af7a84f964cbcbba",
+      "size": 3090265,
+      "changelog": "更新内容：\n- 调整了网络解析的兜底策略,理论上连接出错的概率降低\n- 移除了赞赏码/赞赏入口"
+    },
     {
       "version": "2.2.0",
       "channel": "stable",
