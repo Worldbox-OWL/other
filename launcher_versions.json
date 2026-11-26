@@ -1,9 +1,19 @@
 {
   "schemaVersion": 1,
-  "latest": "2.2.1",
+  "latest": "2.2.2",
   "releaseTag": "OWL-Tauri",
-  "updatedAt": "2026-11-10T15:01:18+00:00",
+  "updatedAt": "2026-11-26T04:12:20+00:00",
   "versions": [
+    {
+      "version": "2.2.2",
+      "channel": "stable",
+      "releaseDate": "2026-11-26",
+      "assetName": "OWL_worldboxGameLuncher-2.2.2-windows-x64.zip",
+      "downloadUrl": "https://github.com/Worldbox-OWL/other/releases/download/OWL-Tauri/OWL_worldboxGameLuncher-2.2.2-windows-x64.zip",
+      "sha256": "fcf572ef248ebb6a5ed03ded74ec7f2cc93f9d8d8f3b1dd38452e93828ab26d8",
+      "size": 3134813,
+      "changelog": "更新内容：\n- 新增 Mod 依赖检查。 安装完成后，启动器会检查当前游戏实例中的必需依赖。Mod 管理页会标明依赖是「已启用」「已禁用」还是「未安装」。缺少依赖时，点「前往下载」即可查看对应的兼容版本。\n- 修正附属 Mod 的名称。 优先显示附属 Mod 自己的名称，需要时显示为「主 Mod 名称：变体名」，方便区分本体和附属。\n- 下载中心的 Mod 简介支持 Markdown。 标题、粗体、列表、引用和链接等格式默认就会渲染，折叠时也会保留。展开可查看完整简介。\n- 修复部分游戏本体下载失败的问题。 兼容新旧下载地址，保留索引提供的有效链接，避免线路切换时把地址拼错而触发 404。\n- 改善资源封面的加载。 封面包下载也会自动尝试备用连接方式，减少 Mod 可以正常下载、预览图却加载失败的情况。\n- 优化悬浮启动按钮和新手引导。 修复拖动后第一次点击可能无效的问题，并在引导最后增加独立一步，高亮按钮并提示可以拖动换位置。"
+    },
     {
       "version": "2.2.1",
       "channel": "stable",
